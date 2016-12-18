@@ -1,0 +1,106 @@
+body {
+	color: #aaa;
+	background-color: black;
+}
+
+th {
+	text-align: left;
+}
+
+a {
+	color: #eee;
+}
+
+.url a {
+	text-decoration: none;
+}
+
+.ip a {
+	word-wrap:break-word;
+	text-decoration: none;
+}
+
+
+.overskrift {
+	color: #ddd;
+	display: inline;
+	font-size:22px;
+	font-style: bold;
+}
+
+h2 {
+	color: #ddd;
+}
+pre {
+	font-family: fixedsys, monospace;
+}
+
+img {
+	padding: 0px;
+	margin: 0px;
+}
+
+hr {
+	border: 0px;
+	height: 1px;
+	padding: 0px;
+	background: #555;
+
+}
+
+input {
+	color: white;
+	background-color: black;
+	border: 1px solid;
+}
+th {
+	text-align: left;
+}
+
+table {
+	width: 100%;
+	vertical-align: top;
+}
+
+td {
+	vertical-align: top;
+}
+
+.meny {
+
+}
+
+.menyvalgt a{
+	color: #7f7;
+}
+
+
+.deltalogg {
+/*	background-color: green; */
+}
+
+.loggdato {
+	width: 10px;
+}
+
+.pst {
+	text-align: right;
+	width: 1px;
+}
+
+.pst a {
+	text-decoration: none;
+}
+
+.deltavenstre {
+/*	width: 400px;
+	background-color: #111; */
+	display: inline-block;
+}
+
+.deltahoyre {
+	vertical-align: top;
+	display: inline-block;
+}
+
+
