@@ -20,7 +20,7 @@ CREATE TABLE `delta` (
 ALTER TABLE `boxtracker`
   ADD PRIMARY KEY (`box`);
 
-  ALTER TABLE `delta`
+ALTER TABLE `delta`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `delta`
